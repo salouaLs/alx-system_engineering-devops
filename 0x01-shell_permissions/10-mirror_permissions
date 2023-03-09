@@ -1,1 +1,2 @@
-#!/bin/bashchmod olleh --reference hello
+#!/bin/bash
+chmod olleh --reference hello
